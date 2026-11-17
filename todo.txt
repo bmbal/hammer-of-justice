@@ -14,4 +14,4 @@ A repository gyökerébe igy kell beadni a fájlaimat:
 
 - wpf alkalmazas:
   ==============  "projektnev-MainWindow.xaml"
-                  "projektnev-MainWindow.xaml.cs"
+                  "projektnev-*.cs"
